@@ -21,3 +21,8 @@ fetch("https://graphql.jakartanotebook.com/graphql/v3", {
   "mode": "cors",
   "credentials": "include"
 });
+
+/*
+https://betterprogramming.pub/working-with-json-in-golang-15e242a57b03
+https://betterprogramming.pub/concurrent-api-calls-and-race-conditions-in-go-d59e0fe023d1 
+*/
